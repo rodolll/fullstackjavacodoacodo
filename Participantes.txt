@@ -1,0 +1,16 @@
+Proyecto realizado por:
+
+    Maria Lucía Spotorno
+    Ezequiel Di lallo
+    Rodolfo Pusula
+    Pablo Martín Facchinelli
+
+
+Tecnologías utilizadas para el proyecto:
+
+    HTML
+    CSS
+    JavaScript
+    Jquery
+    Libreria AOS de JavaScript
+    Bootstrap
